@@ -1,3 +1,18 @@
+Cryptocurrency App - Explore the World of Cryptocurrency
+
+Home Page
+![image](https://user-images.githubusercontent.com/78689154/210317264-05fea88e-f8ca-4136-aa94-e41105486424.png)
+
+Cryptocurrencies 
+![image](https://user-images.githubusercontent.com/78689154/210317309-4f24f97b-d656-46a4-8cac-7269b635b560.png)
+
+Exchanges
+![image](https://user-images.githubusercontent.com/78689154/210317324-96069e11-34de-4020-afcd-abf9c0d9d81b.png)
+
+News
+![image](https://user-images.githubusercontent.com/78689154/210317273-fa150837-e966-4d5c-94bc-84cb837cf0f6.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
